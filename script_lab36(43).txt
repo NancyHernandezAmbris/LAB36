@@ -1,7 +1,7 @@
 #Hecho con gusto por Nancy Hernandez
-#v3
+#v4
 #LAB - Graficos en R con ggplot2 para Ciencia de Datos  
-#Grafica de barras en R
+#HISTOGRAMAS EN R
 
 #Instalando paquete con los datos
 #install.packages("gapminder")
