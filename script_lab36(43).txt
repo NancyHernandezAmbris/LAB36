@@ -1,0 +1,25 @@
+#Hecho con gusto por Nancy Hernandez
+#v3
+#LAB - Graficos en R con ggplot2 para Ciencia de Datos  
+#Grafica de barras en R
+
+#Instalando paquete con los datos
+#install.packages("gapminder")
+#install.packages("ggplot2")
+#Grafica de lineas en R
+
+
+#cargar libreria ggplot2 y gapminder
+library(ggplot2)
+library(gapminder)
+
+#cargando datos a entorno
+data("gapminder")
+
+#filtrando por anio 2007
+
+#Hacer un histograma en ggplot2
+
+#Hacer un histograma en ggplot2 con 9 intervalos (bins)
+
+#Hacer mas cosas interesantes
